@@ -1,4 +1,4 @@
-import {fruits} from './fruits';
+import {fruits} from './foods';
 import {choice, remove} from './helpers';
 
 let fruit = choice(fruits);
